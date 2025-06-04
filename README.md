@@ -1,4 +1,4 @@
-#Introduction to M&A and My Three‐Model Framework
+# Introduction to M&A and My Three‐Model Framework
 Mergers & Acquisitions (M&A) Overview
 M&A describes how companies combine (merger) or one company buys another (acquisition) to accelerate growth, access new markets, acquire talent/technology, and capture cost or revenue synergies. A robust M&A process requires:
 
